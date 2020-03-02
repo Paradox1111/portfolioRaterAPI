@@ -108,4 +108,4 @@ Criteria: Is there adequate documentation? Is the repository well-organized and 
 
 ## Grade: Pass! Awesome work. 🎉🎉🎉😎😎😎
 
-Overall, very well done. I can tell you all put a LOT of work into this application, and it is such a cool project to have in y'alls portfolios. I love the meta quality of the project,
+Overall, very well done. I can tell you all put a LOT of work into this application, and it is such a cool project to have in y'alls portfolios. I love the meta quality of the project, and how you used the technologies you learned in this course to make an app that will help show off your portfolios; it's also very generous to share the portfolios of your classmates, and providing a place to give and receive portfolio feedback is really such a cool service. Congrats on meeting all of the hard requirements and passing project 3! I know this team also had a wonderful group dynamic and workflow, which is a huge accomplishment in and of itself. Thanks for being amazing devs!
